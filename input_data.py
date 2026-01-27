@@ -1,0 +1,5 @@
+# input("Enter your name: ")
+name=input("whatis your name?: ")
+age=input("how old are you?: ")
+# print('your name is', name, 'and you are', age, 'years old')
+print(f'your name is {name} and you are {age} years old')
